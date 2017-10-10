@@ -8,11 +8,11 @@ You'll need Python though
 
 ## Why you should use this app
 
-It prints "hello world!". What else do you need?
+It prints "Hello world!". What else do you need?
 
----
+```
 print("Hello world!")
----
+```
 
 > "This is a great app!" - Somebody
 
